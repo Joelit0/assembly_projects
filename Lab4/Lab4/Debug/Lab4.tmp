@@ -1,0 +1,59 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup_data><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>10</LINE></setup_data>
+  <iBtn><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>79</LINE></iBtn>
+  <_tmr0_int><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>109</LINE></_tmr0_int>
+  <setup_display><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>14</LINE></setup_display>
+  <setup_buttons><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>23</LINE></setup_buttons>
+  <setup_timer0><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>33</LINE></setup_timer0>
+  <loop><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>46</LINE></loop>
+  <divide><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>127</LINE></divide>
+  <numbers><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>146</LINE></numbers>
+  <sacanum><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>205</LINE></sacanum>
+  <start_timer><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>91</LINE></start_timer>
+  <reset_timer><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>97</LINE></reset_timer>
+  <stop_timer><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>103</LINE></stop_timer>
+  <_tmr0_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>116</LINE></_tmr0_out>
+  <update_min_and_secs><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>119</LINE></update_min_and_secs>
+  <update_min_and_secs_exit><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>124</LINE></update_min_and_secs_exit>
+  <iterate><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>134</LINE></iterate>
+  <decrement_10><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>139</LINE></decrement_10>
+  <divide_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>143</LINE></divide_out>
+  <number_0><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>147</LINE></number_0>
+  <number_1><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>153</LINE></number_1>
+  <number_2><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>159</LINE></number_2>
+  <number_3><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>165</LINE></number_3>
+  <number_4><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>171</LINE></number_4>
+  <number_5><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>177</LINE></number_5>
+  <number_6><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>183</LINE></number_6>
+  <number_7><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>189</LINE></number_7>
+  <number_8><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>195</LINE></number_8>
+  <number_9><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>201</LINE></number_9>
+  <dato_serie><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>213</LINE></dato_serie>
+  <loop_dato1><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>215</LINE></loop_dato1>
+  <loop_dato2><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>221</LINE></loop_dato2>
+  <loop_dato3><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab4\Lab4\main.asm</FILE><LINE>223</LINE></loop_dato3>
+ </LABELS>
+</ASSEMBLER_INFO>

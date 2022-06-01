@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\Debug\Lab3Part1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3Part1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3Part1.map</FILE>
+  <FILE>Lab3Part1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</FILE><LINE>8</LINE></start>
+  <_tmr0_int><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</FILE><LINE>59</LINE></_tmr0_int>
+  <comienzo><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</FILE><LINE>39</LINE></comienzo>
+  <loop><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</FILE><LINE>42</LINE></loop>
+  <_tmr0_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\Lab3Part1\Lab3Part1\main.asm</FILE><LINE>70</LINE></_tmr0_out>
+ </LABELS>
+</ASSEMBLER_INFO>

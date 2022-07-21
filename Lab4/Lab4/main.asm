@@ -1,3 +1,4 @@
+
 .ORG 0x0000
 	JMP setup_data
 

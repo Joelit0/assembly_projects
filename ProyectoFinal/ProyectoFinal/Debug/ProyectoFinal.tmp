@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ProyectoFinal.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ProyectoFinal.map</FILE>
+  <FILE>ProyectoFinal.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup_data><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>10</LINE></setup_data>
+  <iBtn><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>65</LINE></iBtn>
+  <_tmr0_int><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>57</LINE></_tmr0_int>
+  <setup_buttons><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>13</LINE></setup_buttons>
+  <setup_timer0><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>23</LINE></setup_timer0>
+  <loop><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>36</LINE></loop>
+  <modulo><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>39</LINE></modulo>
+  <iterate><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>45</LINE></iterate>
+  <decrement_255><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>50</LINE></decrement_255>
+  <modulo_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>53</LINE></modulo_out>
+  <_tmr0_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>62</LINE></_tmr0_out>
+  <gen_numeros><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>76</LINE></gen_numeros>
+  <part_1><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>82</LINE></part_1>
+  <part_2><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>92</LINE></part_2>
+  <part_3><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>101</LINE></part_3>
+  <i_btn_out><FILE>C:\Users\joela\Documents\Atmel Studio\7.0\ProyectoFinal\ProyectoFinal\main.asm</FILE><LINE>107</LINE></i_btn_out>
+ </LABELS>
+</ASSEMBLER_INFO>
